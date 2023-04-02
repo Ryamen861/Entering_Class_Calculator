@@ -4,7 +4,7 @@ Use this calculator to see if you will have to awkwardly pause for a moment befo
 ## Visual Diagram
 _____________________ DOOR ___________________________
 
-                       <-------------------Other Person
+                       <------------------- Other Person
                        ^
 YOU -------------------|
 ______________________________________________________
